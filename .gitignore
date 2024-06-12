@@ -1,0 +1,74 @@
+# Blender specific files
+*.blend1
+*.blend2
+*.blend@
+*.blend#
+
+# Blender Backup files
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+
+# Blender temporary files
+*.temp
+
+# Blender render cache
+render/*
+
+# Blender asset library
+blender_assets/*
+
+# Blender configuration files
+config/*
+
+# Blender auto-save files
+*.autosave
+
+# Blender Cache files
+cache/*
+
+# Thumbnails and other preview files
+*.thumb
+*.blend_thumb
+
+# Blender-specific text files
+*.pyc
+*.pyo
+*.pyd
+
+# Directory for compiled Python scripts used by Blender
+__pycache__/
+
+# Python virtual environment (if used)
+venv/
+env/
+ENV/
+.venv/
+.VENV/
+
+# Common system files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Visual Studio Code project settings
+.vscode/
+
+# JetBrains IDE project settings
+.idea/
+
+# Mac OS specific files
+._*
+
+# Windows specific files
+desktop.ini
